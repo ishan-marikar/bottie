@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/andrew-templeton/bottie#readme",
   "dependencies": {
-    "botkit": "0.0.5",
+    "botkit": "4.0.0",
     "elizabot": "0.0.2",
     "natural": "^0.2.1",
     "request": "2.75.0",
